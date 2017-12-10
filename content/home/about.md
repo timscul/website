@@ -37,7 +37,7 @@ weight = 5
 
 # Biography
 
-I am a data scientist with a backgroup in optimization and machine learning. At Wayfair, I develop, test, and productionalize machine learning models relating to the optimal pricing and inventory management.
+I am a data scientist with a background in optimization and machine learning. At Wayfair, I develop, test, and productionalize machine learning models relating to the optimal pricing and inventory management.
 
 At MIT, I worked on research projects using machine learning to solve problems in the domain of transportation and healthy policy. Before graduate school, I worked on data science projects in a number of roles. At Columbia Business School, I worked as Research Coordinator for Program for Financial Studies, where I wrangled heaps of messy data and built econometic models of invenstor behavior with Paul Tetlock. Additionally, I performed econometric analysis while working at an economic consulting company focusing on antitrust and competition.
 
